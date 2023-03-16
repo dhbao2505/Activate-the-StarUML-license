@@ -22,4 +22,4 @@ checkLicenseValidity () {
 5. Đóng gói lại StarUML: ``` asar pack app app.asar```
 6. Mở **StarUML**, vào **Help -> Enter License Key** xuất hiện thông báo ```"You already have a valid license."```. Kích hoạt thành công!
 
-#### Nguồn: [StarUml 3.](https://gist.github.com/jjvillavicencio/4e3615a8219bb1a17c81c4541c6c317d#instalar-la-herramienta-asar)
+#### Nguồn: [StarUml 3.](https://gist.github.com/jjvillavicencio/4e3615a8219bb1a17c81c4541c6c317d)

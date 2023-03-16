@@ -2,7 +2,7 @@
 # StarUML
 Download: [StarUML](https://staruml.io/)
 
-# Activate License StarUML
+# Activate StarUML License
 1. Mở **Command Prompt (Run as administrator)**, gõ lệnh: ```cd C:\Program Files\StarUML\resources```
 2. Cài đặt công cụ asar: ```npm install -g asar```
 3. Giải nén StarUML: ```asar extract app.asar app```

@@ -1,6 +1,6 @@
 
 # StarUML
-Download: [StarUML](https://staruml.io/)
+Download: [StarUML](https://staruml.io/download)
 
 # Activate StarUML License
 1. Mở **Command Prompt (Run as administrator)**, gõ lệnh: ```cd C:\Program Files\StarUML\resources```
